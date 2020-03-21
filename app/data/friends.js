@@ -32,6 +32,70 @@ var friends = [
             9,
             1
         ]
+    },
+    {
+        "name": "Colby",
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/colorful-of-dahlia-pink-flower-in-beautiful-garden-royalty-free-image-825886130-1554743243.jpg?crop=0.669xw:1.00xh;0.331xw,0&resize=640:*",
+        "scores": [
+            5,
+            4,
+            2,
+            2,
+            4,
+            1,
+            1,
+            3,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "Karen",
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/colorful-of-dahlia-pink-flower-in-beautiful-garden-royalty-free-image-825886130-1554743243.jpg?crop=0.669xw:1.00xh;0.331xw,0&resize=640:*",
+        "scores": [
+            5,
+            5,
+            2,
+            1,
+            1,
+            1,
+            3,
+            5,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "Katy",
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/colorful-of-dahlia-pink-flower-in-beautiful-garden-royalty-free-image-825886130-1554743243.jpg?crop=0.669xw:1.00xh;0.331xw,0&resize=640:*",
+        "scores": [
+            5,
+            5,
+            2,
+            2,
+            6,
+            1,
+            3,
+            1,
+            9,
+            1
+        ]
+    },
+    {
+        "name": "Atul",
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/colorful-of-dahlia-pink-flower-in-beautiful-garden-royalty-free-image-825886130-1554743243.jpg?crop=0.669xw:1.00xh;0.331xw,0&resize=640:*",
+        "scores": [
+            3,
+            1,
+            1,
+            4,
+            6,
+            2,
+            7,
+            7,
+            9,
+            1
+        ]
     }
 
 ]
